@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Quiz quiz</string>
+    <string name="quiz1">1. Which of the following countries has agreed to accept the payment of export of oil and petroleum products to India, in rupee terms instead of dollar or any other currency?</string>
+    <string name="option1">Kuwait </string>
+    <string name="option2">UAE  </string>
+    <string name="option3"> Iran  </string>
+    <string name="option4">Iraq </string>
+
+
+    <string name="quiz2"> 2.  Which of the following countries has signed a \'Non-Aggression Pact\' with Sudan?  </string>
+    <string name="option21">Uganda  </string>
+    <string name="option22">South Sudan </string>
+    <string name="option23">Ethiopia  </string>
+    <string name="option24">South Africa  </string>
+
+
+    <string name="quiz3"> 3. The sensitive index of National Stock Exchange of India is popularly known as.... </string>
+    <string name="option31">  CRIS  </string>
+    <string name="option32"> CSE  </string>
+    <string name="option33"> MCS  </string>
+    <string name="option34">NIFTY  </string>
+    //ans
+
+    <string name="quiz4">4. The number of already named bones in the human skeleton is  </string>
+    <string name="option41"> 200 </string>
+    <string name="option42"> 206  </string>
+    <string name="option43"> 203  </string>
+    <string name="option44"> 208 </string>
+
+    <string name="quiz5">5. Among the following which natural number has no predecessor?  </string>
+    <string name="option51"> 100 </string>
+    <string name="option52"> 200 </string>
+    <string name="option53"> 1 </string>
+    <string name="option54">0 </string>
+
+
+    <string name="quiz6">6. Which among the following is the largest known number in the world? </string>
+    <string name="option61"> ∞ </string>
+    <string name="option62">googol </string>
+    <string name="option63"> googolplex</string>
+    <string name="option64">gram </string>
+
+    <string name="quiz7">7.  In which number system, there is no symbol for zero?   </string>
+    <string name="option71">Hindu Arabic system </string>
+    <string name="option72">Roman  </string>//ans
+    <string name="option73">Egyptian  </string>
+    <string name="option74">Egyptian </string>
+
+
+    <string name="quiz8">8. Rational number is represented by __________.  </string>
+    <string name="option81">N </string>
+    <string name="option82">Z</string>
+    <string name="option83">R </string>
+    //ans
+    <string name="option84">Q </string>
+
+
+    <string name="quiz9">9. An integer p which is not 0 or ±1 and is divisible by no integer except ±1 and itself is called:  </string>
+    <string name="option91">Rational number </string>
+    <string name="option92">Perfect number </string>
+    <string name="option93">Complex number </string>
+    <string name="option94">Prime number </string>
+    //ans
+
+
+    <string name="quiz10"> 10. A number only divisible by itself and one has inspired Joe Mac Anthony to title one of his works. What was the title of his work? </string>
+    <string name="option101"> Prime Target </string>
+    //ans
+    <string name="option102">The Perfect Ten </string>
+    <string name="option103">The Amicable </string>
+    <string name="option104">The Pythagoras </string>
+
+
+    <string name="wel">Are you ready for.. </string>
+
+
+</resources>

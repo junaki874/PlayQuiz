@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#e1a5f1"
+    android:layout_height="match_parent"
+    tools:context=".part2">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/quiz3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/quiz3"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:textColor="#80033b"
+
+            />
+        <RadioGroup
+            android:id="@+id/groupId3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/op31"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/option31"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="#80033b"
+
+                />
+            <RadioButton
+                android:id="@+id/op32"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/option32"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="#80033b"
+
+                />
+
+            <RadioButton
+                android:id="@+id/op33"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/option33"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="#80033b"
+
+                />
+            <RadioButton
+                android:id="@+id/op34"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/option34"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="#80033b"
+
+
+                />
+
+
+        </RadioGroup>
+
+
+
+        <Button
+            android:id="@+id/bu3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Submit"
+            android:textSize="15sp"
+            android:textColor="#1b1d1c"
+            android:textAllCaps="false"
+            />
+
+        <TextView
+            android:id="@+id/res3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:textColor="#7612e9"
+            android:layout_marginBottom="5dp"
+
+            />
+
+        <TextView
+            android:id="@+id/quiz4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/quiz4"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:textColor="#80033b"
+
+            />
+        <RadioGroup
+            android:id="@+id/groupId4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/op41"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/option41"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="#80033b"
+
+                />
+            <RadioButton
+                android:id="@+id/op42"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/option42"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="#80033b"
+
+                />
+
+            <RadioButton
+                android:id="@+id/op43"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/option43"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="#80033b"
+
+                />
+            <RadioButton
+                android:id="@+id/op44"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/option44"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="#80033b"
+
+
+                />
+
+
+        </RadioGroup>
+
+
+
+        <Button
+            android:id="@+id/bu4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Submit"
+            android:textSize="15sp"
+            android:textColor="#1b1d1c"
+            android:textAllCaps="false"
+            />
+
+        <TextView
+            android:id="@+id/res4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:textColor="#7612e9"
+            android:layout_marginBottom="5dp"
+
+            />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/back1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Back"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="#80033b"
+                android:layout_marginRight="100dp"
+                />
+            <Button
+                android:id="@+id/next1"
+                android:layout_marginLeft="100dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Next"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:textColor="#80033b"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>
